@@ -1,0 +1,3 @@
+@set EDITION 4.0.17
+@set VERSION 4.0.17
+@set UPDATED June 2011
